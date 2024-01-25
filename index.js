@@ -1,10 +1,10 @@
-// function scrollToTop() {
-//     window.scrollTo({
-//         top: 0,
-//     });
-// }
+function scrollToTop() {
+    window.scrollTo({
+        top: 0,
+    });
+}
 
-// window.onload = scrollToTop;
+window.onload = scrollToTop;
 
 function whenClick() {
     window.scrollTo({
